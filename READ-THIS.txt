@@ -1,0 +1,53 @@
+================================================================
+
+Terima kasih telah menggunakan Windows RDP pada skrip Azure Sandbox:
+
+Repositori utama.: https://github.com/kmille36/Windows-11-VPS
+
+Laman Facebook : https://facebook.com/thuong.hai.581
+
+Bergabung dengan kami di discord : https://discord.io/RDPEmpire2711
+
+=================================================================
+
+Penerjemah 	: itsL30N
+
+Repositori 	: https://github.com/itsL30Ndeveloper/Windows-11-VPS
+
+Laman Instagram	: https://instagram.com/namasaya.leon
+
+=================================================================
+
+ Pengaturan :
+ 
+- Menambahkan server Internet alternatif (dapat hingga 40 Mbps dengan IDM) secara otomatis terhubung jika server Internet utama gagal untuk terhubung (Anda dapat menggunakan perangkat lunak Accelerator Unduh: IDM, FDM, ... di server 2).
+
+- Maksimal kecepatan jaringan sekitar 100 Mbps. Jangan mencoba menginstal VPN Sofware pada VM (ini tidak akan berfungsi, mengecualikan ekstensi VPN pada browser dapat digunakan).
+
+- Jika jaringan utama memutuskan atau tidak bekerja, tunggu sampai dialog pengaturan server internet alternatif muncul (sekitar 60-an) atau Anda harus pergi ke Azure Portal> Semua Sumber Daya> Pilih Semua (Hapus centang Cloudshell) lalu hapus dan jalankan kembali skrip.
+
+=================================================================
+
+ Spesifikasi :
+ 
+- DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 11 Enterprise
+
+=================================================================
+
+ Catatan :
+
+- HANYA UNTUK KEPERLUAN MENAMBAH WAWASAN
+
+- DILARANG DIGUNAKAN UNTUK MINING (C) ATAUPUN MERETAS
+
+=================================================================
+
+ PERUBAHAN :
+
+- 3/2/2022: Meningkatkan kestabilitas Internet saat mengunduh file besar.
+
+- 7/2/2022: Menambahkan Chocolatey dan Chocolatey GUI (pengelola software).
+
+- 4/4/2022: MERILIS VERSI TERBARU: AZURE WIN VM PLUS (W2022/W10/W11)
+
+=================================================================
